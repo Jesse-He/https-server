@@ -1,0 +1,27 @@
+{
+  "name": "https-server",
+  "version": "1.0.0",
+  "description": "koa https server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "koajs"
+  ],
+  "author": "chenshenhai",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "koa": "^2.7.0",
+    "net": "^1.0.2",
+    "path": "^0.12.7",
+    "url": "^0.11.0"
+  },
+  "engines": {
+    "node": ">=7.6.0",
+    "npm": ">=3.0.0"
+  }
+}

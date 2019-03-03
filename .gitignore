@@ -1,0 +1,8 @@
+.DS_Store
+node_modules/
+_dev_build/
+_pre_build/
+output/
+output_f/
+npm-debug.log
+package-lock.json

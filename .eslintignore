@@ -1,0 +1,6 @@
+build/*.js
+dist/**/*.js
+config/*.js
+mock/**/*.js
+static/lib/*.js
+.eslintrc.js
